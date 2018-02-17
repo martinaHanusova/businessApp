@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="body_small">16sp</dimen>
+    <dimen name="body_normal">24sp</dimen>
+    <dimen name="headline">34sp</dimen>
+    <dimen name="margin_small">16dp</dimen>
+</resources>

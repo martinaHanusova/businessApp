@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Business App</string>
+    <string name="info">&#xf059;</string>
+    <string name="clock">&#xf017;</string>
+    <string name="globe">&#xf0ac;</string>
+    <string name="phone">&#xf095;</string>
+    <string name="map">&#xf3c5;</string>
+    <string name="business_info">Store with products of healthy food</string>
+    <string name="link">www.vebafood.cz</string>
+    <string name="street">Kachlíkova 887/9 Brno</string>
+
+</resources>
