@@ -37,7 +37,7 @@ public class MainActivity extends AppCompatActivity {
     protected String getOpeningHours() {
         String day = getDay();
         if (day.equals("Sun")) {
-            return "Closed";
+            return getString(R.string.closed);
         } else if (day.equals("Sat")){
             return "09:00 – 12:00";
         } else {

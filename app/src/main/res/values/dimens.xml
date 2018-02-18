@@ -4,4 +4,9 @@
     <dimen name="body_normal">24sp</dimen>
     <dimen name="headline">34sp</dimen>
     <dimen name="margin_small">16dp</dimen>
+
+    <dimen name="xlarge_body_small">32sp</dimen>
+    <dimen name="xlarge_body_normal">48sp</dimen>
+    <dimen name="xlarge_headline">68sp</dimen>
+    <dimen name="xlarge_margin_small">32dp</dimen>
 </resources>

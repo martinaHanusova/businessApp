@@ -2,4 +2,5 @@
 <resources>
     <string name="app_name">Business App</string>
     <string name="business_info">Obchod s produkty zdravé výživy</string>
+    <string name="closed">Zavřeno</string>
 </resources>
